@@ -2,6 +2,16 @@
 
 [Directory 구조]
 
+### 2020_10 Labeled data 
+#### 성체줄기세포라서 세포 형태가 보다 안정화되어 있음
+#### Class 4개 (polygonal, small, spread, etc)
+        P1/ 
+            Annotations/ 
+            JPEGImages/ 
+            classes.txt 
+
+
+
 ### New labeled data
 #### 다시 8개로 세분화 해서 label 함
 
