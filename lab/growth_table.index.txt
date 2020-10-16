@@ -1,0 +1,1 @@
+Passage,Polygonal cell #,Small cell #,Spread cell #,O (others),Yield,Growth rate (/day),hrs_to_passage,Polygonal & Small,P&Sm/Sp,ABO-C,P&Sm-Sp,A*B/C,
