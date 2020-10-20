@@ -63,9 +63,9 @@
    
 
 
-##Old labed data (2020년 7월)
-###Cell type: MSC (미성숙개체 유래)
-###Label 방법
+## Old labed data (2020년 7월)
+### Cell type: MSC (미성숙개체 유래)
+### Label 방법
 #### * 미성숙 개체유래 세포라서 다양한 세포 형태가 관찰됨
 #### * 8개의 class로 세분화 하여 label함
 #### * (예상되는 난점) 세포 수 변화를 모델화 하기 너무 복잡함
