@@ -1,6 +1,5 @@
 ﻿# Data_directory_info
 
-[Directory 구조]
 
 ## 2020_10 Labeled data 
 ### Cell type: MSC (성체 유래 세포)
