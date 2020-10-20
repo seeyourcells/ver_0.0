@@ -1,9 +1,9 @@
-﻿## Data_directory_info
+﻿# Data_directory_info
 
 [Directory 구조]
 
-### 2020_10 Labeled data 
-#### 성체줄기세포라서 세포 형태가 보다 안정화되어 있음
+## 2020_10 Labeled data 
+### 성체줄기세포라서 세포 형태가 보다 안정화되어 있음
 #### Class 4개 (polygonal, small, spread, etc)
         P1/ 
             Annotations/ 
@@ -63,8 +63,12 @@
    
 
 
-### Old labed data (2020년 7월)
-#### 8개의 class로 label한 data - 세포 수 변화를 모델화 하기 너무 복잡함
+##Old labed data (2020년 7월)
+###Cell type: MSC (미성숙개체 유래)
+###Label 방법
+#### * 미성숙 개체유래 세포라서 다양한 세포 형태가 관찰됨
+#### * 8개의 class로 세분화 하여 label함
+#### * (예상되는 난점) 세포 수 변화를 모델화 하기 너무 복잡함
 
     2020_07/ 
         test/P1
