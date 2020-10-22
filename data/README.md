@@ -6,6 +6,7 @@
 ### Label 내용
 #### * 성체 유래 줄기세포라서 세포 형태가 보다 안정화 되어 있음
 #### * 4개의 Class로 label (polygonal, small-round, spread, Etc)
+#### * 세포 type에 따른 인식 정확도를 높이기 위한 추가결과
 
         P1/ 
             Annotations/ 
