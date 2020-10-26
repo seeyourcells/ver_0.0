@@ -1,10 +1,4 @@
 # PyFlask_DL-service
-Flask for Computer-Vision Prototype
-> Link : [http://54.180.150.154:5000/](http://54.180.150.154:5000/)
-
-### Function 
-* Object Detection by Darkflow with Fast YOLO-V2
-* Neural Style Transfer
 
 ### Setting Virtualenv
 #### 1. Create virtualenv in Anaconda
@@ -44,25 +38,3 @@ Flask for Computer-Vision Prototype
 (venv_flask) ~pyflask\flask_deep > cd ../
 (venv_flask) ~pyflask > python start_flask.py
 ```
-
-<br>
-
-## Main Page
-<img src="./etc/index-main.png">
-
-## ConvNet? Page
-<img src="./etc/convnet-info.png">
-
-## Object Detection Page
-* Input
-<img src="./etc/od-get.png">
-
-* Output
-<img src="./etc/od-post.png">
-
-## Neural Style Transfer
-* Input
-<img src="./etc/nst-get.png">
-
-* Output
-<img src="./etc/nst-post.png">
