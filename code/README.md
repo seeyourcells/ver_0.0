@@ -9,5 +9,10 @@
 ### 세포 class 별 갯수 확인을 위한 파일
 #### xml_multi.py
 
+
+### 세포 성장 추이 예측을 출력하기 위한 파일
+#### cell_growth_prediction.ipynb
+
+
 ### 세포 class 별 갯수 결과 정리 파일
 #### xml_cell_2020 09 03.xlsx
