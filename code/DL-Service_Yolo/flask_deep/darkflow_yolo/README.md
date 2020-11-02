@@ -17,3 +17,4 @@ all model data from https://drive.google.com/drive/folders/1gvT8Oiub-JPbvAztieHM
 ### 4. Make directory
 Make **/bin** directory from root and put the weights file into the bin.
 Please rename **yolov3.weights** to **yolo.weights**.
+

@@ -56,3 +56,5 @@ def object_detection_post():
 			print('Type is Video')
 
 	return render_template('object_detection_post.html', detected_img=detected_img_path)
+
+
