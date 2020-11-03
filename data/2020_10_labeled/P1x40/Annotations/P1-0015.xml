@@ -276,7 +276,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>spread</name>
+		<name>small-round</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -1497,6 +1497,30 @@
 			<ymin>10</ymin>
 			<xmax>886</xmax>
 			<ymax>131</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>small-round</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1125</xmin>
+			<ymin>1448</ymin>
+			<xmax>1198</xmax>
+			<ymax>1514</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Etc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>725</xmin>
+			<ymin>312</ymin>
+			<xmax>809</xmax>
+			<ymax>429</ymax>
 		</bndbox>
 	</object>
 </annotation>

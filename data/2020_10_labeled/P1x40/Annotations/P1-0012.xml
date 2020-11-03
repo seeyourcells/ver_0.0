@@ -96,7 +96,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>small</name>
+		<name>small-round</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -105,18 +105,6 @@
 			<ymin>754</ymin>
 			<xmax>1611</xmax>
 			<ymax>818</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>small</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1819</xmin>
-			<ymin>1460</ymin>
-			<xmax>1904</xmax>
-			<ymax>1535</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1473,6 +1461,114 @@
 			<ymin>1443</ymin>
 			<xmax>2400</xmax>
 			<ymax>1577</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>small-round</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1821</xmin>
+			<ymin>1473</ymin>
+			<xmax>1888</xmax>
+			<ymax>1539</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>polygonal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>907</xmin>
+			<ymin>941</ymin>
+			<xmax>957</xmax>
+			<ymax>1054</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>polygonal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>854</xmin>
+			<ymin>939</ymin>
+			<xmax>915</xmax>
+			<ymax>1052</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>polygonal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2404</xmin>
+			<ymin>1560</ymin>
+			<xmax>2523</xmax>
+			<ymax>1616</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>polygonal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2488</xmin>
+			<ymin>1718</ymin>
+			<xmax>2552</xmax>
+			<ymax>1866</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>polygonal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2465</xmin>
+			<ymin>600</ymin>
+			<xmax>2532</xmax>
+			<ymax>729</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>polygonal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2348</xmin>
+			<ymin>621</ymin>
+			<xmax>2473</xmax>
+			<ymax>716</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>polygonal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2402</xmin>
+			<ymin>391</ymin>
+			<xmax>2490</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>polygonal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1686</xmin>
+			<ymin>1373</ymin>
+			<xmax>1802</xmax>
+			<ymax>1452</ymax>
 		</bndbox>
 	</object>
 </annotation>
